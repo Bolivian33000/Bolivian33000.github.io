@@ -15,6 +15,6 @@ Recently concluded the [Pathways Into Quantitative Aging Research Summer Program
 
 ## Research
 
-My research interests involves the use of statistics in life sciences
+My research interests involve the use of statistics in life sciences
 
 {% include youtube.html id="s7SKkWC5WmA" %}
