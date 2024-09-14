@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Examining the Association Between Discrimination and Inflammation"
+excerpt: "This study explores the association between daily discrimination and inflammation burden in the Midlife in the United States (MIDUS) Refresher dataset while accounting for demographic, health, and health behavior covariates to understand potential mediating factors like BMI.​<br/><img src='/photos/500x300.png'>"
 collection: portfolio
 ---
 
