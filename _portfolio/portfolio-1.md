@@ -4,4 +4,4 @@ excerpt: "This study explores the association between daily discrimination and i
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<a href = "https://docs.google.com/presentation/d/1T499Tusig9HlLLFaA7TxeB6A4ZllAbNef_hjnLTL_6w/edit?usp=sharing">Pathways into Quantitative Aging Research Final Presentation</a>
